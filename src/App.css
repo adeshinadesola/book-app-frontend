@@ -1,0 +1,28 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Typography */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    container: fluid;
+  }
+
+  /* Media queries for responsiveness */
+  @media screen and (max-width: 768px) {
+    /* Adjust styles for small screens */
+    .navbar {
+      /* Modify navbar styles for smaller screens */
+    }
+  
+    .container {
+      margin-top: 100px; /* Adjust for taller navbar on smaller screens */
+    }
+  }
+  
+
+  

@@ -21,7 +21,7 @@ Axios Configuration
 The API requests are managed using bookService.js located in the src/services directory.
 #### Clone the Backend (bookapi) built with java spring boot
 ``` ssh
-https://github.com/adeshinadesola/bookapi.git
+https://github.com/adeshinadesola/book-app-backend.git
 ```
 ### Contributing
 Contributions are welcome! Please follow these steps:
